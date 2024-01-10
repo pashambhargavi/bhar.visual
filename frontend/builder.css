@@ -1,0 +1,166 @@
+.bg-container {
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.left-container {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+    padding: 15px;
+    width: 180px;
+}
+
+.heading {
+    color: #4d0066;
+    font-weight: bold;
+}
+
+.right-container {
+    background-color: #f0f0f5;
+    background-size: cover;
+    padding: 50px;
+
+}
+
+.middle-container1 {
+    color: black;
+    border: 2px solid #4d0066;
+    border-radius: 5px;
+    margin: 10px 30px;
+    width: 240px;
+    height: 130px;
+    padding: 15px;
+
+
+}
+
+.middle-container2 {
+    color: #ff3300;
+    border: 2px solid #ff3300;
+    border-radius: 5px;
+    margin: 10px 30px;
+    width: 240px;
+    height: 130px;
+    padding: 15px;
+}
+
+.middle-container3 {
+    color: #4d0066;
+    border: 2px solid #4d0066;
+    border-radius: 5px;
+    width: 270px;
+    height: 130px;
+    margin: 10px 30px;
+    padding: 10px;
+}
+
+.input1 {
+    background-color: #ff3300;
+    padding: 8px;
+    color: white;
+    margin: 15px;
+    border-radius: 10px;
+    width: 290px;
+}
+
+.upload-button {
+    background-color: #4d0066;
+    padding: 10px;
+    width: 290px;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.buttons {
+    color: white;
+    padding: 10px;
+    width: 258px;
+    height: 50px;
+    background-color: #4d0066;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.search-container {
+    background-color: white;
+    border: 1px solid #d1d1e0;
+    margin: 3px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 600px;
+}
+
+h1 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.input-search {
+    border: 2px solid #4d0066;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.bottom-container {
+    background-color: white;
+    border: 1px solid #d1d1e0;
+    margin: 50px 5px;
+    height: 100vh;
+    border-radius: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+    border-color: black;
+    margin: 2px;
+    font-family: "Roboto";
+}
+
+tr {
+    border: 1px solid #000;
+    padding: 5px;
+}
+
+td {
+    padding: 15px;
+    margin: 5px;
+}
+
+.button {
+    background-color: orange;
+    margin-bottom: 6px;
+    border: 0px;
+    border-radius: 10px;
+    color: white;
+}
+
+.button-edit {
+    background-color: #600080;
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+}
+
+.button-yes {
+    background-color: green;
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+    margin-bottom: 6px;
+}
+
+/*th{
+    padding: 20px;
+}
+*/
+.th1 {
+    padding: 35px;
+}
